@@ -1,4 +1,4 @@
-# Meu Primeiro Projeto com Angular
+# Meu Primeiro Projeto com Angular 20.3.5
 
 Este é o repositório de um projeto de estudo desenvolvido em aula, com o objetivo de criar uma primeira aplicação utilizando **Angular**. O projeto foi gerado com o [Angular CLI](https://github.com/angular/angular-cli) versão 20.3.5.
 
